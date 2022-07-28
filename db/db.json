@@ -94,6 +94,14 @@
       "image": "https://5.imimg.com/data5/HU/VL/MY-6117714/fresh-french-beans-500x500.jpg",
       "description": "Non organic",
       "delivery": "free"
+    },
+    {
+      "id": 122,
+      "name": "Tomatoes",
+      "price": "55.00",
+      "image": "https://eqhct8esjgc.exactdn.com/wp-content/uploads/2015/06/tomatoes-on-vine-sq.jpg?strip=all&lossy=1&ssl=1",
+      "description": "Ready for harvest",
+      "delivery": "free"
     }
   ]
 }
